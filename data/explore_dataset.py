@@ -1,9 +1,7 @@
 from datasets import load_dataset
 import pandas as pd
-
 dataset = load_dataset("IntelLabs/SynthClinicalNotes")
 df = dataset["test"].to_pandas()
-
 print("=" * 50)
 print("DATASET OVERVIEW")
 print("=" * 50)
