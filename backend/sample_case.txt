@@ -1,0 +1,126 @@
+[PATIENT INFO]
+Age: 34
+Gender: Female
+Ethnicity: Caucasian
+Admission Type: URGENT
+Insurance: Private Insurance
+Primary Language: English
+Marital Status: Single
+Religion: None
+Reason for Admission: Severe muscle pain, dark-colored urine, and low blood pressure
+
+[PRIOR NOTE]
+Subjective: The patient is a 34-year-old female admitted for benztropine overdose, hypotension, acute kidney injury (AKI), rhabdomyolysis, and alcohol withdrawal. She reports feeling much improved today compared to previous days. Her muscle soreness has significantly subsided, and she denies any ongoing nausea, confusion, or light-headedness. The patient is eager for discharge and remains compliant with oral hydration. No new complaints have been reported since the last note.
+
+Objective: The patient remains clinically stable. Vital signs over the past 24 hours include heart rate ranging from 65–72 bpm, blood pressure trending between 95/53 mmHg to 100/58 mmHg, temperature stable at 36.3–36.5°C, and oxygen saturation at 98% on room air. Physical exam reveals the patient is alert, oriented to person, place, and time, and in no apparent distress. Cardiovascular and pulmonary exams are unremarkable; no crackles, peripheral edema, or accessory muscle usage noted. The abdomen is soft and non-tender. Extremities reveal no focal deficits or swelling. Labs from this morning show improvement in kidney function with creatinine down to 1.4 mg/dL and BUN at 30 mg/dL. Additional laboratory results are within normal limits, including sodium 138 mEq/L, potassium 4.6 mEq/L, chloride 102 mEq/L, and bicarbonate 25 mEq/L. Urine output remains adequate. Repeat hemoglobin is stable at 12.0 g/dL. ABG is normal with pH 7.4, pCO₂ 37 mmHg, and pO₂ 95 mmHg. BNP remains mildly elevated at 300 pg/mL but clinically insignificant for worsening heart failure.
+
+Assessment: The patient is a 34-year-old female admitted for benztropine overdose, alcohol withdrawal, AKI (likely due to rhabdomyolysis and dehydration), and hypotension. She is clinically stable today. Alcohol withdrawal symptoms have completely resolved. Kidney function continues to improve, nearing baseline. Rhabdomyolysis is resolving with normalization of electrolytes and adequate hydration. The patient is tolerating oral hydration well, and there are no concerns for ongoing benztropine toxicity. HIV remains well-controlled on antiretroviral therapy without issues during admission.
+
+Plan:
+1. Benztropine toxicity: No further treatment required, resolved clinically. Educated patient on medication safety and proper dosing.
+2. Acute kidney injury and rhabdomyolysis: Continue oral hydration with electrolyte monitoring. Renal function steadily improving, with creatinine at 1.4 mg/dL and trending toward baseline.
+3. Alcohol withdrawal: Resolved. No further pharmacologic intervention needed.
+4. Electrolyte management: Labs will continue to be monitored until discharge, but all values within normal limits today (e.g., sodium, potassium, magnesium).
+5. Hypertension: Blood pressures remain mildly low but clinically acceptable; no acute intervention required. Plan long-term outpatient follow-up with PCP for ongoing management.
+6. Social determinants and health education: Provided counseling regarding medication adherence, alcohol cessation, and dietary improvements. Strongly encouraged follow-up visits with primary care and mental health providers post-discharge.
+
+Disposition: Continue monitoring in the medical unit today, anticipate discharge plans for tomorrow barring any significant change.
+
+Total time spent: Approximately 25 minutes, including review of clinical data and patient education.
+
+[LAB RESULTS]
+Sodium: 139 mEq/L.
+Potassium: 4.5 mEq/L.
+Chloride: 103 mEq/L.
+CO₂: 26 mEq/L.
+BUN: 20 mg/dL.
+Creatinine: 1.1 mg/dL.
+Glucose: 90 mg/dL.
+Calcium: 9.2 mg/dL.
+Magnesium: 2.0 mg/dL.
+Phosphate: 4.1 mg/dL.
+WBC: 8.5 K/uL.
+Hemoglobin: 12.5 g/dL.
+Hematocrit: 36.0 %.
+Platelet: 170 K/uL.
+MCV: 93 fL.
+MCH: 31.2 pg.
+MCHC: 33.6 g/dL.
+RDW: 14.1 %.
+RBC: 4.1 M/uL.
+pH: 7.4 .
+pCO₂: 37 mmHg.
+pO₂: 96 mmHg.
+Base Excess: 0 mmol/L.
+HCO₃⁻: 23 mmol/L.
+Oxygen %: 98 %.
+Total CO₂: 26 mEq/L.
+pH: 7.41 .
+pCO₂: 36 mmHg.
+pO₂: 97 mmHg.
+Base Excess: 1 mmol/L.
+HCO₃⁻: 24 mmol/L.
+Oxygen %: 99 %.
+Total CO₂: 27 mEq/L.
+PT: 13.5 seconds.
+INR: 0.9 .
+PTT: 29.0 seconds.
+Anion gap: 10 mmol/L.
+Lactate: 1.7 mmol/L.
+BNP: 280 pg/mL.
+Vancomycin: Not applicable .
+
+[CHART EVENTS]
+Heart Rate: 64.0 bpm.
+Non-Invasive Blood Pressure systolic: 94.0 mmHg.
+Non-Invasive Blood Pressure diastolic: 52.0 mmHg.
+Non-Invasive Mean Arterial Pressure: 66.0 mmHg.
+O2 Saturation Pulse Oximetry: 98.0 %.
+Temperature: 36.3 C.
+Minute Volume: 6.2 L/min.
+Central Venous Pressure: 5.0 mmHg.
+Hemoglobin: 9.3 g/dL.
+Hematocrit: 30.1 %.
+WBC: 8.9 K/uL.
+Creatinine: 1.2 mg/dL.
+FiO2 / Inspired O2 Fraction: 21.0 %.
+Heart Rate: 63.0 bpm.
+Non-Invasive Blood Pressure systolic: 93.0 mmHg.
+Non-Invasive Blood Pressure diastolic: 51.0 mmHg.
+Non-Invasive Mean Arterial Pressure: 65.0 mmHg.
+O2 Saturation Pulse Oximetry: 98.0 %.
+Temperature: 36.3 C.
+Minute Volume: 6.1 L/min.
+Hemoglobin: 9.3 g/dL.
+FiO2 / Inspired O2 Fraction: 21.0 %.
+Heart Rate: 62.0 bpm.
+Non-Invasive Blood Pressure systolic: 92.0 mmHg.
+Non-Invasive Blood Pressure diastolic: 50.0 mmHg.
+Non-Invasive Mean Arterial Pressure: 64.0 mmHg.
+O2 Saturation Pulse Oximetry: 98.0 %.
+Temperature: 36.4 C.
+Minute Volume: 6.0 L/min.
+Hemoglobin: 9.3 g/dL.
+FiO2 / Inspired O2 Fraction: 21.0 %.
+Heart Rate: 60.0 bpm.
+Non-Invasive Blood Pressure systolic: 91.0 mmHg.
+Non-Invasive Blood Pressure diastolic: 50.0 mmHg.
+Non-Invasive Mean Arterial Pressure: 64.0 mmHg.
+O2 Saturation Pulse Oximetry: 98.0 %.
+Temperature: 36.4 C.
+Minute Volume: 5.9 L/min.
+Hemoglobin: 9.3 g/dL.
+Heart Rate: 59.0 bpm.
+Non-Invasive Blood Pressure systolic: 90.0 mmHg.
+Non-Invasive Blood Pressure diastolic: 49.0 mmHg.
+Non-Invasive Mean Arterial Pressure: 63.0 mmHg.
+O2 Saturation Pulse Oximetry: 98.0 %.
+Temperature: 36.4 C.
+Minute Volume: 5.8 L/min.
+Hemoglobin: 9.3 g/dL.
+Heart Rate: 58.0 bpm.
+Non-Invasive Blood Pressure systolic: 89.0 mmHg.
+Non-Invasive Blood Pressure diastolic: 48.0 mmHg.
+Non-Invasive Mean Arterial Pressure: 62.0 mmHg.
+O2 Saturation Pulse Oximetry: 98.0 %.
+Temperature: 36.4 C.
